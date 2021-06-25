@@ -2,18 +2,18 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daphne Guo
+Chemist and graduate student at Oregon State University
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/daphneguo">GitHub</a>
+| <a href="https://twitter.com/DaphneSGuo1">Twitter</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Planning to move to Corvallis, OR
 
 ### Specialized in
 
