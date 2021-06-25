@@ -3,7 +3,9 @@ layout: cv
 title: Isaac Newtons's CV
 ---
 # Daphne Guo
-Chemist and graduate student at Oregon State University
+
+guod@oregonstate.edu | (480) 234-5348
+
 
 <div id="webaddress">
 <a href="https://github.com/daphneguo">GitHub</a>
@@ -11,35 +13,39 @@ Chemist and graduate student at Oregon State University
 </div>
 
 
-## Currently
+## Education
 
-Planning to move to Corvallis, OR
+`2015-2019`
+__Harvey Mudd College, Claremont, CA.__
 
-### Specialized in
+- B.S. Chemistry
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2019-2021`
+__Stanford University, Stanford, CA
+
+- M.S. Chemistry
+
+`2021-present`
+__Oregon State University, Corvalis, OR__
+
+- PhD Biological and Ecological Engineering
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+Water quality, chemical fingerprinting, mass spectrometry, machine learning
 
 
 ## Awards
@@ -55,32 +61,7 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
