@@ -16,7 +16,7 @@ guod@oregonstate.edu | (480) 234-5348
 ## Education
 
 `2015-2019`
-__Harvey Mudd College, Claremont, CA.__
+__Harvey Mudd College, Claremont, CA.
 
 - B.S. Chemistry
 
